@@ -12,5 +12,3 @@ __version__:1.0
 __type__:jar
 
 __scope__:compile
-
-please do this before
